@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "guide-site-template",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "4246"],
+      "port": 4246,
+      "autoPort": false
+    }
+  ]
+}
